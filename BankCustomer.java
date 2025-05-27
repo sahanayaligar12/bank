@@ -1,5 +1,3 @@
-package Bank;
-
 public class BankCustomer {
 
     String custName;
